@@ -2,7 +2,7 @@
 
 ### ✏️ Help Desk - Back-End 📚⏳🤔😉
 
-Repositório contendo um projeto que utiliza o Spring Boot Security e boas práticas. Realiza-se na construção de um sistema Help Desk (CRUD Clientes, Técnicos, Chamados) e mais. No back-end foi utilizado a linguagem Java. (Repository containing a project that uses Spring Boot Security. It takes place in the construction of a Help Desk system (CRUD Customers, Technicians, Calls) and more. In the back-end, the Java language was used.)
+Repositório contendo um projeto que utiliza o Spring Boot Security e boas práticas. Realiza-se na construção de um sistema Help Desk (CRUD Clientes, Técnicos, Chamados) e mais como validações e mensagens personalizadas sem falar dos tratamentos de exceções. No back-end foi utilizado a linguagem Java. (Repository containing a project that uses Spring Boot Security and best practices. It takes place in the construction of a Help Desk system (CRUD Customers, Technicians, Tickets) and more like validations and personalized messages, not to mention exception handling)
 
 ### Começando (Getting started)
 
